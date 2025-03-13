@@ -1,5 +1,7 @@
 # Woofcoin-meme-token
 
+![DALL·E 2025-03-13 20 22 56 - A pixelated dog resembling a Shiba Inu, designed in a retro pixel art style  The dog appears cheerful and friendly, with large expressive eyes and a p](https://github.com/user-attachments/assets/467a3616-4853-4ce7-a4ff-3fd270f4309f)
+
 
 WoofCoin ($WOOF): The Bark Heard Across the Blockchain!
 
