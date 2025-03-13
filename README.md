@@ -1,4 +1,6 @@
 # Woofcoin-meme-token
+
+
 WoofCoin ($WOOF): The Bark Heard Across the Blockchain!
 
 WoofCoin is a fun, dog-themed meme token built on the Chihuahua Chain, a Cosmos-based blockchain. Designed to bring humor and community engagement to the 
